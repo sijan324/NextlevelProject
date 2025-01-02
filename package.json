@@ -1,0 +1,16 @@
+{
+  "name": "nextlevel",
+  "version": "1.0.0",
+  "description": "Backend at next level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascripts",
+    "backends",
+    "nextlevel"
+  ],
+  "author": "sijan gautam",
+  "license": "ISC"
+}
