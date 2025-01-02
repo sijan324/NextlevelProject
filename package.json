@@ -15,6 +15,7 @@
   "author": "sijan gautam",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "prettier": "^3.4.2"
   }
 }
